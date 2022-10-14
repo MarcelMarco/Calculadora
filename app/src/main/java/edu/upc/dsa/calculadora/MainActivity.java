@@ -149,8 +149,57 @@ public class MainActivity extends AppCompatActivity {
 
     public void button_equalonClick(View view) {
 
+        String[] numeros = new String[20];
+        String[] numfinales = new String[20];
+
+//        for(int i=0;i<indicevarOps;i++){
+//            if(varOps[i] == "s"){
+//                numeros = op.split("\\+");
+//                numfinales[i] = numeros[i];
+//            } else if (varOps[i] == "r"){
+//                numeros = op.split("-");
+//                numfinales[i] = numeros[i];
+//            } else if (varOps[i] == "m"){
+//                numeros = op.split("\\*");
+//                numfinales[i] = numeros[i];
+//            } else if (varOps[i] == "d"){
+//                numeros = op.split("/");
+//                numfinales[i] = numeros[i];
+//            } else if (varOps[i] == "sind"){
+//                numeros = op.split("sin");
+//                numfinales[i] = numeros[i];
+//            } else if (varOps[i] == "cosd"){
+//                numeros = op.split("cos");
+//                numfinales[i] = numeros[i];
+//            } else if (varOps[i] == "tand"){
+//                numeros = op.split("tan");
+//                numfinales[i] = numeros[i];
+//            } else if (varOps[i] == "sinr"){
+//                numeros = op.split("sin");
+//                numfinales[i] = numeros[i];
+//            } else if (varOps[i] == "cosr"){
+//                numeros = op.split("cos");
+//                numfinales[i] = numeros[i];
+//            } else if (varOps[i] == "tanr"){
+//                numeros = op.split("tan");
+//                numfinales[i] = numeros[i];
+//            }
+//        }
+
+        numfinales = op.split("\\+|-|\\*|/");
+
+        //Limpio el vector para hacer la prueba con numeros de mas de 1 digito
+        for(int i=0;i<varNums.length;i++){
+            varNums[i] = 0.0d;
+        }
+
+        for (int i=0;i<numfinales.length;i++){
+            varNums[i] = Double.parseDouble(numfinales[i]);
+        }
+
+
+//      Version que solo funciona con numeros del 0-9
         double res = varNums[0];
-        int x = 0;
 
         for(int i=0;i<indicevarOps;i++){
             if(varOps[i] == "s"){
