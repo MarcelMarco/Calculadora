@@ -62,82 +62,60 @@ public class MainActivity extends AppCompatActivity {
     private String[] varOps = new String[10];
     private int indicevarOps = 0;
     private Double varNums[] = new Double[20];
-    private int indicevarNums = 0;
 
     public void button_0onClick(View view) {
         op = op + "0";
         textView.setText(op);
-        varNums[indicevarNums] = 0.0d;
-        indicevarNums++;
     }
 
     public void button_1onClick(View view) {
         op = op + "1";
         textView.setText(op);
-        varNums[indicevarNums] = 1.0d;
-        indicevarNums++;
     }
 
     public void button_2onClick(View view) {
         op = op + "2";
         textView.setText(op);
-        varNums[indicevarNums] = 2.0d;
-        indicevarNums++;
     }
 
     public void button_3onClick(View view) {
         op = op + "3";
         textView.setText(op);
-        varNums[indicevarNums] = 3.0d;
-        indicevarNums++;
     }
 
     public void button_4onClick(View view) {
         op = op + "4";
         textView.setText(op);
-        varNums[indicevarNums] = 4.0d;
-        indicevarNums++;
     }
 
     public void button_5onClick(View view) {
         op = op + "5";
         textView.setText(op);
-        varNums[indicevarNums] = 5.0d;
-        indicevarNums++;
     }
 
     public void button_6onClick(View view) {
         op = op + "6";
         textView.setText(op);
-        varNums[indicevarNums] = 6.0d;
-        indicevarNums++;
     }
 
     public void button_7onClick(View view) {
         op = op + "7";
         textView.setText(op);
-        varNums[indicevarNums] = 7.0d;
-        indicevarNums++;
     }
 
     public void button_8onClick(View view) {
         op = op + "8";
         textView.setText(op);
-        varNums[indicevarNums] = 8.0d;
-        indicevarNums++;
     }
 
     public void button_9onClick(View view) {
         op = op + "9";
         textView.setText(op);
-        varNums[indicevarNums] = 9.0d;
-        indicevarNums++;
     }
 
     public void button_clearonClick(View view) {
         op="";
         textView.setText(op);
-        indicevarNums = 0;
         indicevarOps = 0;
         for(int i=0;i<varOps.length;i++){
             varOps[i] = "";
@@ -148,8 +126,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void button_equalonClick(View view) {
-
-        String[] numeros = new String[20];
         String[] numfinales = new String[20];
 
 //        for(int i=0;i<indicevarOps;i++){
@@ -229,7 +205,6 @@ public class MainActivity extends AppCompatActivity {
         textView.setText(resultado);
 
         op="";
-        indicevarNums = 0;
         indicevarOps = 0;
         for(int i=0;i<varOps.length;i++){
             varOps[i] = "";
