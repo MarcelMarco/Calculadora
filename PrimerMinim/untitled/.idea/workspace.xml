@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00ebc5f0-2d8d-4255-a04e-88cd79069fe5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Minimo1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/public/espinete.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/public/swagger/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/public/swagger/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/public/swagger/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/public/swagger/oauth2-redirect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/public/swagger/swagger-ui-bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/public/swagger/swagger-ui-bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/public/swagger/swagger-ui-standalone-preset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/public/swagger/swagger-ui-standalone-preset.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/public/swagger/swagger-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/public/swagger/swagger-ui.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/public/swagger/swagger-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/public/swagger/swagger-ui.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/rest-example2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/src/main/java/edu/upc/eetac/dsa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/src/main/java/edu/upc/eetac/dsa/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/src/main/java/edu/upc/eetac/dsa/ProductManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/src/main/java/edu/upc/eetac/dsa/models/LP/LP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/src/main/java/edu/upc/eetac/dsa/models/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/src/main/java/edu/upc/eetac/dsa/models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/src/main/java/edu/upc/eetac/dsa/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/src/main/java/edu/upc/eetac/dsa/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minimo1/Minimo1/src/test/java/ProductManagerImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/ManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/models/LO/ListaObjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/models/Objeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ManagerImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/androidTest/java/edu/upc/dsa/calculadora/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/edu/upc/dsa/calculadora/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/test/java/edu/upc/dsa/calculadora/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HGws8IcpySjcNAXgEbuxEyzld4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Marcel/Documents/Universitat/Tercer_Curs/1r_Quatrimestre/DSA/PrimerMinim_Alba&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00ebc5f0-2d8d-4255-a04e-88cd79069fe5" name="Changes" comment="" />
+      <created>1667924932987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667924932987</updated>
+      <workItem from="1667924934223" duration="6721000" />
+      <workItem from="1667988531781" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
