@@ -1,0 +1,28 @@
+Patrons de disseny
+	-Singleton (Bastant global i generalitzat)
+	-Command
+	-Factory
+	-Observer
+	-MVC (Model Vista Controlador)
+	-DAO
+	-ORM
+
+Singleton Pattern
+	El Singleton té 2 característiques clau:
+		-Gestiona una i només una instància de la classe
+		-La classe ha de tenir un únic punt d'accés local
+	Implementació
+		-Constructor privat
+		-Referencia privada estàtica a l'única instància d'aquesta classe
+		-Proporciona un mètode d'accés estàtic per tornar una referència a l'única instància
+		-Gestió de les dades internes (context no estàtic)
+	Important Properties de java (info a javadoc)
+		Properties -> Sistema Fitxers
+		Properties -> Resource Bundle -> Class Loader
+		-Els fitchers .properties es possa a la carpeta resources
+
+Factory Method Pattern
+	Una de les declaracions més comuns en POO fa servir new per crear instancies d'objectes d'una classe concreta
+	El patró Factory introdueix un intermediari entre el client i la classe concreta
+
+Observer Pattern

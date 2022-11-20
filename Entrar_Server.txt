@@ -1,0 +1,13 @@
+ssh dsa5@147.83.7.208
+Mazinger72 //contra
+sudo su -
+Mazinger72 //contra
+Iniciar git (sino instalar "apt git")
+*git
+*mvn
+*git clone --branch swagger https://github.com/jlopezr/rest-example.com
+*mvn compile
+*mvn exec:java
+*vi src/main/java/edu/upc/dsa/Main.java //Para cambiar la direccion
+*mvn compile
+*mvn exec:java
